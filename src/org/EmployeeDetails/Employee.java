@@ -10,6 +10,10 @@ public class Employee {
 		System.out.println("12345");
 		
     }
+	public void comlocation() {
+		
+        System.out.println("Location:blr");
+	}
 	
 	public static void main(String[] args) {
 		
