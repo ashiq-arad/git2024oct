@@ -10,6 +10,10 @@ public class Employee {
 		System.out.println("12345");
 		
     }
+	public void comstatus() {
+		System.out.println("working now");
+
+	}
 	
 	public static void main(String[] args) {
 		
