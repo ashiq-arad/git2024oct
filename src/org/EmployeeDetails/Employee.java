@@ -10,9 +10,17 @@ public class Employee {
 		System.out.println("12345");
 		
     }
-	public void comlocation() {
+	
+	public void comstatus() {
+		System.out.println("working now");
+	}
+	
+	
+	
+	
+	public void com() {
 		
-        System.out.println("Location:blr");
+        System.out.println("att");
 	}
 	
 	public static void main(String[] args) {
