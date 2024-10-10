@@ -10,16 +10,24 @@ public class Employee {
 		System.out.println("12345");
 		
     }
-<<<<<<< HEAD
 	public void comstatus() {
 		System.out.println("working now");
-
-=======
-	public void comlocation() {
+	}
+public void comlocation() {
 		
         System.out.println("Location:blr");
->>>>>>> 768b449fe587b4e64ba6ee59a69e2c9306079914
-	}
+}
+
+public void com() {
+	
+    System.out.println("hp");
+}
+
+///<<<<<<< HEAD
+	
+////=======
+	
+////>>>>>>> 768b449fe587b4e64ba6ee59a69e2c9306079914
 	
 	public static void main(String[] args) {
 		
